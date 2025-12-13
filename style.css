@@ -239,8 +239,8 @@ a {
 }
 
 .logo-content img {
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
 }
 
 .navOpen-btn,
@@ -831,12 +831,12 @@ a {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  padding-bottom: 40px;
 }
 
 .media img{
-  width: 120px;
-  height: 120px;
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px;
 }
 
 .media p{
