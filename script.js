@@ -123,6 +123,7 @@ cardFood.addEventListener("click", (e) => {
     } else {
       card.remove();
       updateTotal();
+      updateCartCount();
       return;
     }
   }
